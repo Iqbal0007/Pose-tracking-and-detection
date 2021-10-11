@@ -6,8 +6,8 @@ In modified_pose_tracking.py -
 4. The merge function returns img which can be used in every iteration for further process in the main function.
 5. This modified version saves the frames of each video in their specific folder and also the merged images in "Merged" folder.
 
-   command line to run - 
-   python modified_pose_tracking.py -o task_output_video/final_output.mp4
+    command line to run - 
+    python modified_pose_tracking.py -o task_output_video/final_output.mp4
 
 
 
