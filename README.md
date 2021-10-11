@@ -8,10 +8,17 @@ In modified_pose_tracking.py -
 
 command line to run - python modified_pose_tracking.py -o task_output_video/final_output.mp4
 
+
+
+
 mergeAll.py -
 In a specfic folder if the 4 videos are available then we can simply run this python file and it will create 4 folders where it will save frames from each video in their designated folder and will also save the merged frames in Merged folder.
 
 command line to run - python mergeAll.py
+
+
+
+
 
 frame_count.py -
 If we run this script from a folder which contains mp4 videos then it will print the frame count for each video.
