@@ -23,7 +23,7 @@ In a specfic folder if the 4 videos are available then we can simply run this py
 
 
 frame_count.py -
-If we run this script from a folder which contains mp4 videos then it will print the frame count for each video.
+If we run this script from a folder which contains mp4 videos then it will print the frame count for each video. It's important to know about the video of with highest number of frames as it can be used as the limit for iterations.
 
     command line to run - 
     python frame_count.py
