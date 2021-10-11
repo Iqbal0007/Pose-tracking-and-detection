@@ -14,7 +14,7 @@ try:
     has_mmdet = True
 except (ImportError, ModuleNotFoundError):
     has_mmdet = False
-
+#merge function
 def merge(img1,img2,img3,img4,i):
     img1 = Image.open('G:/merging photos/videos/1/'+str(i)+'.jpg')
     img2 = Image.open('G:/merging photos/videos/2/'+str(i)+'.jpg')
