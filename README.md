@@ -3,7 +3,7 @@ In modified_pose_tracking.py -
 1. Added a new function called merged in the code (line 20 - 32)
 2. Added -o in the args out video root for easier command line to run the script
 3. Modified in lines 111 - 119 for 4 video streams and also created 4 folders for 4 videos' frames which can be used easily for merge function
-4. Added required libraries
+4. Added new required libraries
 5. The merge function returns img which can be used in every iteration for further process in the main function.
 6. This modified version saves the frames of each video in their specific folder and also the merged images in "Merged" folder.
 
