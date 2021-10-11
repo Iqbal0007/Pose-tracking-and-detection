@@ -14,7 +14,7 @@ In modified_pose_tracking.py -
 
 
 mergeAll.py -
-In a specfic folder if the 4 videos are available then we can simply run this python file and it will create 4 folders where it will save frames from each video in their designated folder and will also save the merged frames in Merged folder.
+In a specfic folder if the 4 videos are available then we can simply run this python file and it will create 4 folders where it will save frames from each video in their designated folder and will also save the merged frames in Merged folder. This script can be useful for data preparation before training models too.
 
     command line to run - 
     python mergeAll.py
